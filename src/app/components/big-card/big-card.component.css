@@ -1,12 +1,12 @@
 .container__big-card {
     
-    border: solid #fff; /* linha guia  apagar depois*/
+border: 1px solid #fff;
 
     display: flex;
     flex-direction: column;
     align-items: center;
-
-    width: 49%;
+    width: 600px;
+    margin: 0 10px;
 }
 
 .big-card__photo {
